@@ -1,3 +1,4 @@
 # KaKao clone
 
-HTML and CSS are so awesome!
+HTML & CSS are so awesome!
+The FIRST step to become a full-stack developer!
